@@ -1,0 +1,26 @@
+Makine öğrenimi veri analiz etmek ve sonucu tahmin etmek için var
+Veri türlerini üç ana kategoriye ayırabiliriz:
+
+Sayısal
+Kategorik
+Sıralı
+Sayısal veriler sayılardır ve iki sayısal kategoriye ayrılabilir:
+
+Ayrık Veri
+- tamsayılarla sınırlı sayılar. Örnek: Geçen araba sayısı.
+Sürekli Veri
+- sonsuz değere sahip sayılar. Örnek: Bir ürünün fiyatı veya bir ürünün boyutu
+Kategorik veriler, birbirine karşı ölçülemeyen değerlerdir. Örnek: bir renk değeri veya herhangi bir evet/hayır değeri.
+
+Sıralı veriler, kategorik veriler gibidir, ancak birbirlerine karşı ölçülebilir. Örnek: A'nın B'den daha iyi olduğu okul notları vb.
+
+Veri kaynağınızın veri türünü bilerek, bunları analiz ederken hangi tekniği kullanacağınızı bilebileceksiniz.
+
+
+
+
+
+
+
+
+
